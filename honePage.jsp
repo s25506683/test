@@ -92,7 +92,7 @@
 							<h3 class="post-subtitle">${list.content}</h3>
 						</a>
 						<p class="post-meta">
-							Posted by <a href="#">Start Bootstrap</a> on 
+							Posted by <a href="#">{USER_ACCOUNT}</a> on ${list.time}
 						</p>
 					</div>
 					<hr>
