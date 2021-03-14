@@ -55,9 +55,8 @@
 					</li>
 					<li class="nav-item"><a class="nav-link" href="about.html">我的文章</a>
 					</li>
-					<li class="nav-item" style="display: none;"><a
-						class="nav-link" href="">我的收藏(尚未啟用)</a></li>
-					<li class="nav-item"><a class="nav-link" href="contact.html">設定</a>
+					<li class="nav-item"><a class="nav-link" href="">變更密碼</a></li>
+					<li class="nav-item"><a class="nav-link" href="contact.html">個人資料</a>
 					</li>
 				</ul>
 			</div>
